@@ -1,0 +1,28 @@
+{
+  "name": "book-review-crud-api",
+  "version": "1.0.0",
+  "description": "A CRUD API for managing books and reviews using Node.js, Express, and MongoDB",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon -r dotenv/config src/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "crud",
+    "api"
+  ],
+  "author": "Prince Vishwakarma",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
