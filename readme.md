@@ -1,6 +1,6 @@
 # 📚 Book Review CRUD API
 
-A simple **CRUD (Create, Read, Update, Delete)** REST API built with **Node.js, Express, and MongoDB** for managing books and their reviews.
+A simple **CRUD (Create, Read, Update, Delete)** REST API built with **Node.js, Express** for managing books and their reviews.
 
 ---
 
